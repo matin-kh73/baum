@@ -1,5 +1,5 @@
 {
-  "name": "culturalinfusion/baum",
+  "name": "alibayat/baum",
   "type": "library",
   "description": "Baum is an implementation of the Nested Set pattern for Eloquent models.",
   "keywords": ["nested set", "laravel", "laravel 6", "laravel 7", "laravel 8", "laravel 9", "laravel 10", "eloquent", "database"],
